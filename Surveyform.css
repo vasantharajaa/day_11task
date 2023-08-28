@@ -1,0 +1,42 @@
+
+table,th,tr,td{
+    border: none;
+    Width:700px;
+    Height:30px;
+   
+}
+
+span{
+    display:flex;
+    flex-direction: row;
+    gap:60px;
+
+}
+td{
+    
+    align-items: center;
+    justify-content: center;
+    
+    font-size:12pt;
+    
+}
+body{
+    display:flex;
+    justify-content: center;
+}
+form{
+    align-items: center;
+
+}
+
+
+#experience{
+    Width:100px;
+    Width:100px
+
+}
+img{
+    Width:50px;
+    Width:50px;
+
+}
